@@ -1,23 +1,29 @@
 
-# 🧮 Calculadora online vs-code
+# 🖥️ Calculadora Online
 
-Este é um projeto simples de **calculadora** desenvolvido em vs-code como parte dos meus estudos de programação.
-
----
+Projeto de uma **calculadora web simples** criada com HTML, CSS e JavaScript.
 
 ## 🎯 Objetivo
-Praticar:
-- Estruturas condicionais (`if`, `elif`, `else`)
-- Funções em Python
-- Entrada e saída de dados no terminal
+- Praticar desenvolvimento web básico.
+- Aprender a manipular o DOM com JavaScript.
+- Criar um projeto funcional e documentado no GitHub.
 
----
-
-## 🛠️ Tecnologias Utilizadas
-- [Python 3](https://www.python.org/)
-
----
+## 🛠️ Tecnologias
+- HTML
+- CSS
+- JavaScript
 
 ## 🚀 Como executar
-Acesse a pasta do projeto:
-git clone https://github.com/seu-usuario/calculadora-python.git
+1. Clone o repositório:
+git clone https://github.com/SEU-USUARIO/calculadora-online.git
+
+2. Abra o arquivo `index.html` em qualquer navegador.
+
+## 📚 O que aprendi
+- Estrutura de um projeto web simples.
+- Manipulação de elementos do DOM.
+- Como criar interatividade com JavaScript.
+
+## 📫 Contato
+- LinkedIn: https://linkedin.com/in/seu-usuario
+- Email: seuemail@email.com
